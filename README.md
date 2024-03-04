@@ -1,7 +1,4 @@
-/*
-This program calculates a user's purchase amount with discounts for spirit wear
-purchases and sales taxes, printing the details back to the user on a receipt.
- */
+
 #include <stdio.h>
 
 // Function prototypes
