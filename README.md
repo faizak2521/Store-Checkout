@@ -1,3 +1,4 @@
+```
 
 #include <stdio.h>
 
@@ -97,3 +98,5 @@ float totalPurchase(float purchase_amount, float taxAmount) {
     float totalPurchase = purchase_amount + taxAmount;
     return totalPurchase; // Returns the total purchase amount.
 }
+
+```
